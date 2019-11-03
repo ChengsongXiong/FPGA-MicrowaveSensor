@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Nov 03 16:48:48 2019
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : microwave_sensor
+Top-level Entity Name : top
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 5,763 / 10,320 ( 56 % )
+    Total combinational functions : 5,762 / 10,320 ( 56 % )
+    Dedicated logic registers : 130 / 10,320 ( 1 % )
+Total registers : 130
+Total pins : 21 / 180 ( 12 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
