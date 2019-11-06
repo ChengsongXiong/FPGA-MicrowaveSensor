@@ -1,0 +1,3 @@
+*.js linguist-language=VHDL
+*.css linguist-language=VHDL
+*.html linguist-language=VHDL
